@@ -1,0 +1,2 @@
+*.eapx filter=lfs diff=lfs merge=lfs -text
+*.qeax filter=lfs diff=lfs merge=lfs -text
